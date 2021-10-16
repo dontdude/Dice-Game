@@ -11,7 +11,7 @@ function game(){
   var n2 = Math.floor(Math.random()*6 + 1);
   while(n1 == n2)
   {
-    var n2 = Math.floor(Math.random()*6 + 1);
+    n1 = Math.floor(Math.random()*6 + 1);
   }
   var src1 = "dice" + n1;
   var src2 = "dice" + n2;
