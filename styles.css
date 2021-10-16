@@ -1,0 +1,65 @@
+.bar{
+  background-color: #C56824;
+  text-align: center;
+  padding: 1rem 0 .5rem 0;
+  letter-spacing: 1px;
+  color: white;
+  font-family: monospace;
+  border-style: solid;
+  border-color: black;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px black;
+}
+.heading{
+  background-color: #E02401;
+  color: white;
+  width: 27%;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: black;
+  position: relative;
+  left: 36.5%;
+  margin-bottom: 8px;
+}
+.button{
+  border-style: solid;
+  border-color: black;
+  font-family: monospace;
+}
+.newbtn{
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: monospace;
+}
+body{
+  background-color: #CFB784;
+  text-align: center;
+}
+#form{
+  font-family: monospace;
+  font-weight: bold;
+  color: #800000;
+  padding: 5px 0;
+}
+.dice{
+  height: 200px;
+}
+.res{
+  padding : 2rem 0;
+  text-shadow: 1px 1px 20px red;
+}
+.row{
+  margin-top: 2rem;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1rem;
+}
+.score{
+  display: inline-block;
+  color: white;
+  font-size: 1.5rem;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.icon{
+  color: black;
+  margin-left: 7px;;
+}
