@@ -9,7 +9,7 @@
   border-color: black;
   text-shadow: 0 0 3px #FF0000, 0 0 5px black;
 }
-.heading{
+.header{
   background-color: #E02401;
   color: white;
   width: 27%;
@@ -25,6 +25,7 @@
   border-style: solid;
   border-color: black;
   font-family: monospace;
+  margin-bottom: 3rem;
 }
 .newbtn{
   margin-left: 20px;
@@ -35,16 +36,31 @@ body{
   background-color: #CFB784;
   text-align: center;
 }
-#form{
+.form{
   font-family: monospace;
+  font-size: 1.2rem;
   font-weight: bold;
   color: #800000;
   padding: 5px 0;
 }
 .dice{
   height: 200px;
+  margin-top: 1rem;
+}
+.dice:hover, .bar:hover{
+  opacity: 0.7;
+}
+.shake{
+  animation: shake 0.3s infinite;
+}
+@keyframes shake {
+
+  0%{  transform: rotate(20deg); }
+  50%{  transform: rotate(-20deg); }
+  100%{  transform: rotate(20deg); }
 }
 .res{
+  letter-spacing: 2px;
   padding : 2rem 0;
   text-shadow: 1px 1px 20px red;
 }
