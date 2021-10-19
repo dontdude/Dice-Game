@@ -2,10 +2,11 @@
   background-color: #C56824;
   text-align: center;
   padding: 1rem 0 .5rem 0;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   color: white;
-  margin-right: 0;
-  font-family: monospace;
+  max-width:100%;
+  font-family: monospace, 'Lucida Console', Courier, cursive;
+  font-weight: 700;
   border-style: solid;
   border-color: black;
   text-shadow: 0 0 3px #FF0000, 0 0 5px black;
@@ -25,22 +26,23 @@
 .button{
   border-style: solid;
   border-color: black;
-  font-family: monospace;
+  font-family: monospace, 'Lucida Console', Courier, cursive;
+  font-weight: 700;
   margin-bottom: 3rem;
 }
 .newbtn{
   margin-left: 20px;
-  font-weight: bold;
-  font-family: monospace;
+  font-family: monospace, 'Lucida Console', Courier New, cursive;
+  font-weight: 700;
 }
 body{
   background-color: #CFB784;
   text-align: center;
 }
 .form{
-  font-family: monospace;
+  font-family: monospace, 'Lucida Console', Courier, cursive;
+  font-weight: 700;
   font-size: 1.2rem;
-  font-weight: bold;
   color: #800000;
   padding: 5px 0;
 }
@@ -67,7 +69,8 @@ body{
 }
 .row{
   margin-top: 2rem;
-  font-family: monospace;
+  font-family: monospace, 'Lucida Console', Courier, cursive;
+  font-weight: 700;
   font-weight: bold;
   font-size: 1rem;
 }
