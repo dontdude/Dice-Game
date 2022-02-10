@@ -1,7 +1,7 @@
-#  [Dice Game](https://imchandan2000.github.io/Dice-Game/)
+#  [Dice Game](https://dontdude.github.io/Dice-Game/)
 __“Win your argument by rolling a dice!”__
 * Dice game created using HTML, CSS, JavaScript
-* Type on your browser: [___lnkiy.in/dicegame___](https://imchandan2000.github.io/Dice-Game/)
+* Type on your browser: [___lnkiy.in/dicegame___](https://dontdude.github.io/Dice-Game/)
 * Dice game Presentataion : [___Mini-Project___](https://1drv.ms/p/s!ApWII7tiDedngQRg_Anwabctf4q6)
 - - - -
 
