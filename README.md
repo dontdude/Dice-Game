@@ -1,4 +1,4 @@
-#  [dontDice](https://dontdude.github.io/dontDude/)
+#  [dontDice](https://dontdude.github.io/dontDice/)
 __“Win your argument by rolling a dice!”__
 * Dice game created using HTML, CSS, JavaScript
 * Head Over to: [___dontdude.github.io/dontDice/___](https://dontdude.github.io/dontDice/)
